@@ -31,8 +31,5 @@ $ ./gradlew clean build jacocoTestReport
 $ ./gradlew clean build check
 ```
 
-## How to use
-<To be updated>
-
 ### Author
 Syarif Hidayatullah
